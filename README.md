@@ -1,4 +1,4 @@
-Building a music Player in VUE.JS & Tailwind CSS | Manoj Singh Negi | Recraft Relic
+Building a Music Player in VUE.JS & Tailwind CSS | Manoj Singh Negi | Recraft Relic
 =============================================
 
 Youtube video
