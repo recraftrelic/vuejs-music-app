@@ -20,7 +20,6 @@ body{
   background-color: black;
 }
 .app-container {
-  background-color: gray;
   width: 350px;
   height: 700px;
 }
