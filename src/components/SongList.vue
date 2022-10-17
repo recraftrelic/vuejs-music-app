@@ -1,7 +1,7 @@
 <template>
     <div v-if="!isPlayerVisible">
         <div class="text-yellow-300 font-bold text-center text-3xl mb-7 mt-3">
-            VueJS Music App
+            BoudaCloud
         </div>
         <div
             v-for="(song, songIndex) in list" v-bind:key="song.id"
