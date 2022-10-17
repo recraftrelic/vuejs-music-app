@@ -49,7 +49,7 @@ export default {
     "artistName": "Cheb Momo",
     "year": 2020,
     "src": "https://raw.githubusercontent.com/DrissBouda/vuejs-music-app/master/src/assets/cheb momo.jpg",
-    "songSrc": "http://xoom.virgilio.it/source_filemanager/ws/ss/wss/Cheb%20Momo%20-%20N3ichou%20la%20vida.mp3"
+    "songSrc": "https://xoom.virgilio.it/source_filemanager/ws/ss/wss/Cheb%20Momo%20-%20N3ichou%20la%20vida.mp3"
   },
   {
     "id": 1,
@@ -57,7 +57,7 @@ export default {
     "artistName": "LFERDA",
     "year": 2020,
     "src": "https://raw.githubusercontent.com/DrissBouda/vuejs-music-app/master/src/assets/lferda.jpg",
-    "songSrc": "http://xoom.virgilio.it/source_filemanager/ws/ss/wss/LFERDA%20-%20Aghach.mp3"
+    "songSrc": "https://xoom.virgilio.it/source_filemanager/ws/ss/wss/LFERDA%20-%20Aghach.mp3"
   },
   {
     "id": 2,
@@ -65,7 +65,7 @@ export default {
     "artistName": "Lord Mehdi",
     "year": 2020,
     "src": "https://raw.githubusercontent.com/DrissBouda/vuejs-music-app/master/src/assets/lord mehdi.jpg",
-    "songSrc": "http://xoom.virgilio.it/source_filemanager/ws/ss/wss/Lord%20Mehdi%20-%20Koula%20Nhar.mp3"
+    "songSrc": "https://xoom.virgilio.it/source_filemanager/ws/ss/wss/Lord%20Mehdi%20-%20Koula%20Nhar.mp3"
   },
   {
     "id": 3,
@@ -73,7 +73,7 @@ export default {
     "artistName": "Lord Mehdi",
     "year": 2020,
     "src": "https://raw.githubusercontent.com/DrissBouda/vuejs-music-app/master/src/assets/lord mehdi.jpg",
-    "songSrc": "http://xoom.virgilio.it/source_filemanager/ws/ss/wss/Lord%20Mehdi%20-%20Tant%20pis.mp3"
+    "songSrc": "https://xoom.virgilio.it/source_filemanager/ws/ss/wss/Lord%20Mehdi%20-%20Tant%20pis.mp3"
   },
   {
     "id": 4,
@@ -81,7 +81,7 @@ export default {
     "artistName": "Nessyou",
     "year": 2020,
     "src": "https://raw.githubusercontent.com/DrissBouda/vuejs-music-app/master/src/assets/nessyou.jpg",
-    "songSrc": "http://xoom.virgilio.it/source_filemanager/ws/ss/wss/Nessyou%20-%20Foutni%20w%209ni.mp3"
+    "songSrc": "https://xoom.virgilio.it/source_filemanager/ws/ss/wss/Nessyou%20-%20Foutni%20w%209ni.mp3"
   },
   {
     "id": 5,
@@ -89,7 +89,7 @@ export default {
     "artistName": "MA3iZ",
     "year": 2020,
     "src": "https://raw.githubusercontent.com/DrissBouda/vuejs-music-app/master/src/assets/ma3iz.jpg",
-    "songSrc": "http://xoom.virgilio.it/source_filemanager/ws/ss/wss/MA3IZ%20-%20DRAILL.mp3"
+    "songSrc": "https://xoom.virgilio.it/source_filemanager/ws/ss/wss/MA3IZ%20-%20DRAILL.mp3"
   },
   {
     "id": 6,
@@ -113,7 +113,7 @@ export default {
     "artistName": "Lmorphine",
     "year": 2020,
     "src": "https://raw.githubusercontent.com/DrissBouda/vuejs-music-app/master/src/assets/lmorphine.jpg",
-    "songSrc": "http://xoom.virgilio.it/source_filemanager/ws/ss/wss/inkonnu/L%20morphine%20-%20Sparadra.mp3"
+    "songSrc": "https://xoom.virgilio.it/source_filemanager/ws/ss/wss/inkonnu/L%20morphine%20-%20Sparadra.mp3"
   },
   {
     "id": 9,
@@ -129,7 +129,7 @@ export default {
     "artistName": "Faouzia",
     "year": 2020,
     "src": "https://raw.githubusercontent.com/DrissBouda/vuejs-music-app/master/src/assets/faouzia.jpg",
-    "songSrc": "http://xoom.virgilio.it/source_filemanager/ws/ss/wss/Faouzia%20-%20RIP%2C%20Love.mp3"
+    "songSrc": "https://xoom.virgilio.it/source_filemanager/ws/ss/wss/Faouzia%20-%20RIP%2C%20Love.mp3"
   },
   {
     "id": 11,
