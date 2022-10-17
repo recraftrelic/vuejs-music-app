@@ -16,6 +16,9 @@ export default {
 </script>
 
 <style>
+body{
+  background-color: black;
+}
 .app-container {
   width: 350px;
   height: 700px;
