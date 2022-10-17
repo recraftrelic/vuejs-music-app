@@ -6,7 +6,7 @@
             <div class="text-yellow-300 font-bold text-1xl">VueJS Music App</div>
         </div>
         <div>
-            <img class="rounded mt-8 mb-4" v-bind:src="song.src" />
+            <img class="rounded mt-8 mb-4 items-center" v-bind:src="song.src" />
             <div class="text-center">
                 <p class="text-yellow-300 font-bold">{{ song.name }}</p>
                 <p class="text-gray-200">{{ song.artistName }} - {{ song.albumName }}</p>
