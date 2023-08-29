@@ -3,10 +3,10 @@
     <div class="text-white">
         <div class="flex flex-row justify-between">
             <button v-on:click="goback">Back</button>
-            <div class="text-yellow-300 font-bold text-1xl">VueJS Music App</div>
+            <div class="text-yellow-300 font-bold text-1xl">BoudaCloud</div>
         </div>
         <div>
-            <img class="rounded mt-8 mb-4" v-bind:src="song.src" />
+            <img width="680" height="680" class="rounded mt-8 mb-4" v-bind:src="song.src" />
             <div class="text-center">
                 <p class="text-yellow-300 font-bold">{{ song.name }}</p>
                 <p class="text-gray-200">{{ song.artistName }} - {{ song.albumName }}</p>
